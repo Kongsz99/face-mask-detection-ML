@@ -1,7 +1,6 @@
 # face-mask-detection-ML
 
-Dataset:
-The dataset used in this project is available publicly on Kaggle: [source](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
+Kaggle Dataset: [source](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 
 Notebook: [view](/ML-Face_Mask_detection.ipynb)
 
